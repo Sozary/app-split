@@ -1,3 +1,0 @@
-# app-split
-
-de
